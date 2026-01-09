@@ -1,0 +1,3 @@
+[submodule "CNN_Accelerator"]
+	path = CNN_Accelerator
+	url = https://github.com/20kkm/CNN_Accelerator.git
